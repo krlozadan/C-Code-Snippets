@@ -5,3 +5,4 @@ This repository has a colleciton of different C++ exercises I made, including da
 **Contents:**
 
 - [Binary Tree](./src/BinaryTree.cpp)
+- [Linked List](./src/LinkedList.cpp)

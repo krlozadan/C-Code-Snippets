@@ -6,3 +6,4 @@ This repository has a colleciton of different C++ exercises I made, including da
 
 - [Binary Tree](./src/BinaryTree.cpp)
 - [Linked List](./src/LinkedList.cpp)
+- [Double Linked List](./src/DoubleLinkedList.cpp)

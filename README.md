@@ -8,4 +8,5 @@ This repository has a colleciton of different C++ exercises I made, including da
 - [Linked List](./src/LinkedList.cpp)
 - [Double Linked List](./src/DoubleLinkedList.cpp)
 - [Binary Tree](./src/BinaryTree.cpp)
-- [Binary Tree](./src/BitManipulation.cpp)
+- [Bit Manipulation](./src/BitManipulation.cpp)
+- [Singleton](./src/Singleton.cpp)

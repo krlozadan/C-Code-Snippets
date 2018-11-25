@@ -4,6 +4,7 @@ This repository has a colleciton of different C++ exercises I made, including da
 
 **Contents:**
 
-- [Binary Tree](./src/BinaryTree.cpp)
+- [Constructors](./src/Constructors.cpp)
 - [Linked List](./src/LinkedList.cpp)
 - [Double Linked List](./src/DoubleLinkedList.cpp)
+- [Binary Tree](./src/BinaryTree.cpp)

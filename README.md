@@ -5,6 +5,7 @@ This repository has a colleciton of different C++ exercises I made, including da
 **Contents:**
 
 - [Constructors](./src/Constructors.cpp)
+- [Pointers](./src/Pointers.cpp)
 - [Casting](./src/Casting.cpp)
 - [Linked List](./src/LinkedList.cpp)
 - [Double Linked List](./src/DoubleLinkedList.cpp)

@@ -12,3 +12,4 @@ This repository has a colleciton of different C++ exercises I made, including da
 - [Binary Tree](./src/BinaryTree.cpp)
 - [Bit Manipulation](./src/BitManipulation.cpp)
 - [Singleton](./src/Singleton.cpp)
+- [Queue](./src/Queue.cpp)
